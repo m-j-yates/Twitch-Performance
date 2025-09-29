@@ -1,7 +1,7 @@
 # Twitch-Performance
 # 🎮 Twitch Analytics & Revenue Tracker (Jul–Sept 2025)
 
-Welcome to my data-driven breakdown of Twitch performance across July to September 2025. This Excel project transforms my raw streaming metrics into actionable insights—tracking viewer engagement, revenue trends, and platform performance with precision and creativity.
+Welcome to my data-driven breakdown of Twitch performance across July to September 2025. This Excel project transforms my raw streaming metrics into actionable insights—tracking viewer engagement, revenue trends, and platform performance with precision and creativity. After initial exploration of the raw data we will move on to how viewership is affected by personal presentation using Tableau and then finishing on an exploration of the numerical variables such as time spent streaming, overall follower statistics and unique vs returning viewers.
 
 ## 🚀 Project Overview
 
@@ -63,8 +63,6 @@ This isn’t just an Excel file—it’s a performance engine. By combining anal
 ---
 # 🎮 My Twitch Viewership: Makeup vs. No Makeup
 
-This Tableau dashboard is a personal deep dive into my own Twitch streaming stats—specifically, how viewer engagement shifts depending on whether I’m wearing makeup and extensions vs natural as well as the cut of my clothing. It’s not just numbers—it’s a reflection of how presentation can shape perception in real time.
-
 ## 📊 Dashboard Overview
 
 Using my actual Twitch viewership data, I explored three distinct presentation styles:
@@ -73,6 +71,8 @@ Using my actual Twitch viewership data, I explored three distinct presentation s
 - **Outfit Cut**: Exploring any effect top cut has on viewership
 
 The dashboard visualizes how these choices influenced audience size, engagement, and overall performance.
+
+<iframe src="https://public.tableau.com/views/twitchviewshiptableau/Dashboard1?:showVizHome=no&:embed=true" width="100%" height="800px"></iframe>
 
 ## 🔍 Key Features
 
@@ -107,5 +107,5 @@ As both a streamer and data analyst, I wanted to turn my own stats into a story.
 
 Explore the full dashboard below, or [open it in Tableau Public](https://public.tableau.com/app/profile/megan.yates5147/viz/twitchviewshiptableau/Dashboard1?publish=yes).
 
-<iframe src="https://public.tableau.com/views/twitchviewshiptableau/Dashboard1?:showVizHome=no&:embed=true" width="100%" height="800px"></iframe>
+
 
