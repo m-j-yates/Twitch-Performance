@@ -61,5 +61,51 @@ This workbook is a showcase of my ability to turn granular data into strategic d
 This isn’t just an Excel file—it’s a performance engine. By combining analytical rigor with creative formatting, I’ve built a tool that helps streamers and analysts alike make smarter, faster decisions.
 
 ---
+# 🎮 My Twitch Viewership: Makeup vs. No Makeup
 
-Want to collaborate on future dashboards or turn this into a Python-powered analytics pipeline? Let’s connect and level up the data game.
+This Tableau dashboard is a personal deep dive into my own Twitch streaming stats—specifically, how viewer engagement shifts depending on whether I’m wearing makeup and extensions vs natural as well as the cut of my clothing. It’s not just numbers—it’s a reflection of how presentation can shape perception in real time.
+
+## 📊 Dashboard Overview
+
+Using my actual Twitch viewership data, I explored three distinct presentation styles:
+- **High Personal Effort**: Streams where I wore makeup, hair extensions.
+- **Natural**: Streams where I went natural
+- **Outfit Cut**: Exploring any effect top cut has on viewership
+
+The dashboard visualizes how these choices influenced audience size, engagement, and overall performance.
+
+## 🔍 Key Features
+
+- **Side-by-Side Bar Charts** to highlight viewer count differences  
+- **Interactive Filters** to explore by different personal presentation 
+- **Color-Coded Visuals** that reflect mood and contrast  
+- **Tooltips** with stream-specific metrics like viewer engagement and days of the week
+
+## 💡 What I Discovered
+
+- Makeup often correlated with higher initial viewership—but not always sustained  
+- Some of my most engaged audiences came from no-makeup streams  
+- The data reveals subtle patterns in audience behavior and expectations  
+
+## 🧠 Why I Built This
+
+As both a streamer and data analyst, I wanted to turn my own stats into a story. This dashboard blends **personal insight** with **analytical rigor**, showing how even small choices can have measurable impact.
+
+## 🛠️ Tools Used
+
+- **Tableau Public** for dashboard design and publishing  
+- **Excel** for cleaning and structuring my Twitch data  
+- **Markdown** for documentation and portfolio polish  
+
+## 🚀 What I’m Proud Of
+
+- Turning raw stream data into a meaningful narrative  
+- Designing visuals that are both personal and professional  
+- Using analytics to reflect on my own content and growth  
+
+## 🔗 View the Dashboard
+
+Explore the full dashboard below, or [open it in Tableau Public](https://public.tableau.com/app/profile/megan.yates5147/viz/twitchviewshiptableau/Dashboard1?publish=yes).
+
+<iframe src="https://public.tableau.com/views/twitchviewshiptableau/Dashboard1?:showVizHome=no&:embed=true" width="100%" height="800px"></iframe>
+
