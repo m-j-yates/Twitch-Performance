@@ -105,7 +105,7 @@ As both a streamer and data analyst, I wanted to turn my own stats into a story.
 
 ## 🔗 View the Dashboard
 
-Explore the full dashboard below, or [open it in Tableau Public](https://public.tableau.com/app/profile/megan.yates5147/viz/twitchviewshiptableau/Dashboard1?publish=yes).
+[open it in Tableau Public](https://public.tableau.com/app/profile/megan.yates5147/viz/twitchviewshiptableau/Dashboard1?publish=yes).
 
 
 
