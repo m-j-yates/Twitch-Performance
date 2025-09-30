@@ -114,6 +114,10 @@ As both a streamer and data analyst, I wanted to turn my own stats into a story.
 
 Welcome to one of my proudest Power BI builds—a vibrant, interactive dashboard that further deep dives into my Twitch streaming metrics. I designed this report to do more than just visualize data—it tells a story. From viewer spikes to chat surges, every insight is wrapped in a sleek, branded experience that reflects both Twitch’s energy and my personal design aesthetic.
 
+## 🔗 Explore the Report
+
+Curious to see it in action? View the live dashboard on [Power BI](https://app.powerbi.com/groups/me/reports/ccd3abaf-ea79-46fa-9c7a-c2aa2a23a4de/c41202407360e7d076ab?experience=power-bi).
+
 ## 🚀 Why This Dashboard Stands Out
 
 - **Built by Meg**: I specialize in transforming raw data into compelling visual narratives. This dashboard is a prime example of how I blend analytical rigor with creative flair.
@@ -161,9 +165,6 @@ These insights helped me refine how I visualize performance metrics and audience
 - Custom themes and layout styling  
 - Data modeling for time-series and categorical analysis
 
-## 🔗 Explore the Report
-
-Curious to see it in action? View the live dashboard on [Power BI](https://app.powerbi.com/groups/me/reports/ccd3abaf-ea79-46fa-9c7a-c2aa2a23a4de/c41202407360e7d076ab?experience=power-bi).
 
 ---
 
