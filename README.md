@@ -61,7 +61,7 @@ This workbook is a showcase of my ability to turn granular data into strategic d
 This isn’t just an Excel file—it’s a performance engine. By combining analytical rigor with creative formatting, I’ve built a tool that helps streamers and analysts alike make smarter, faster decisions.
 
 ---
-# 🎮 My Twitch Viewership: Makeup vs. No Makeup
+# 🎮 My Twitch Viewership: How Personal Presentation Affects Viewership
 
 ## 📊 Dashboard Overview
 
@@ -106,6 +106,68 @@ As both a streamer and data analyst, I wanted to turn my own stats into a story.
 ## 🔗 View the Dashboard
 
 [open it in Tableau Public](https://public.tableau.com/app/profile/megan.yates5147/viz/twitchviewshiptableau/Dashboard1?publish=yes).
+
+# 🎮 Twitch Streaming Analytics – Viewership And Follower Gain Exploration
+
+<img width="1189" height="658" alt="image" src="https://github.com/user-attachments/assets/75f28832-7795-4dea-b165-8cd666402ca6" />
+
+
+Welcome to one of my proudest Power BI builds—a vibrant, interactive dashboard that further deep dives into my Twitch streaming metrics. I designed this report to do more than just visualize data—it tells a story. From viewer spikes to chat surges, every insight is wrapped in a sleek, branded experience that reflects both Twitch’s energy and my personal design aesthetic.
+
+## 🚀 Why This Dashboard Stands Out
+
+- **Built by Meg**: I specialize in transforming raw data into compelling visual narratives. This dashboard is a prime example of how I blend analytical rigor with creative flair.
+- **Branded & Bold**: Styled with Twitch’s iconic purple (#9146FF) and my own branding palette—think deep violets, soft teals, and punchy pinks meets vibrant and earthy greens—this report is as visually engaging as it is informative.
+- **Interactive Storytelling**: With intuitive drill-downs and slicers, users can explore streaming trends, chat activity, and follower growth in just a few clicks.
+
+## 🔍 Features That Drive Insight
+
+### 🎯 Drill-Down & Slicing Techniques
+- **Time-Based Drilldowns**: Zoom from monthly overviews into daily performance spikes for minutes streamed and max viewers.
+- **Game-Level Slicers**: Filter chat metrics by game to uncover which titles spark the most engagement.
+- **Metric Toggles**: Switch between chatters, messages, and followers to explore different dimensions of audience interaction.
+
+### 🎨 Design & Branding
+- **Custom Color Coding**: Every chart and slicer is styled to match Twitch’s vibe and my personal branding—creating a seamless, professional look.
+- **Layout Precision**: Clean, intuitive design ensures users can explore insights without friction.
+
+## 📈 Dashboard Highlights
+
+- **Minutes Streamed vs Max Viewers**: Track how stream duration correlates with audience peaks.
+- **Chatters by Game**: Discover which games ignite the most conversation.
+- **Follower Gain vs Live Views**: Analyze how visibility translates into community growth.
+
+## 🔍 What I Discovered
+
+This dashboard revealed some fascinating patterns in Twitch streaming behavior:
+
+- 🎯 **Viewer Peaks Don’t Always Align with Stream Length**  
+  While longer streams often correlated with higher viewer counts, several short sessions in August and September spiked unexpectedly—suggesting that timing and game choice may outweigh duration.
+
+- 🗣️ **Guild Wars 2 Dominates Chat Engagement**  
+  Among all games streamed, *Guild Wars 2* consistently drove the highest number of chatters and messages. It stood out as a community magnet, outperforming more mainstream titles in engagement.
+
+- 📈 **Follower Growth Mirrors Live View Surges**  
+  Follower gains showed a strong correlation with spikes in live views, especially during high-visibility streams in late September. This suggests that visibility and timing are key drivers of audience expansion.
+
+- 🎮 **Game Choice Impacts Community Activity**  
+  Games like *Contrast*, *Fall Guys*, and *Borderlands 3* triggered notable chat activity, while others like *Calico* and *Fran Bow* had quieter but more loyal engagement patterns.
+
+These insights helped me refine how I visualize performance metrics and audience dynamics—turning raw Twitch data into a clear, compelling story.
+
+## 🛠️ Tools & Techniques
+
+- Power BI filters, slicers, and drill-through pages  
+- Custom themes and layout styling  
+- Data modeling for time-series and categorical analysis
+
+## 🔗 Explore the Report
+
+Curious to see it in action? View the live dashboard on [Power BI](https://app.powerbi.com/groups/me/reports/ccd3abaf-ea79-46fa-9c7a-c2aa2a23a4de/c41202407360e7d076ab?experience=power-bi).
+
+---
+
+
 
 
 
